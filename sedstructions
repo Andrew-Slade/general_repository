@@ -1,0 +1,2 @@
+sed usage---- sed 's/oldphrase/newphrase/' oldfile > tempfile && mv tempfile oldfile
+

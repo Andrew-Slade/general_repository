@@ -1,0 +1,14 @@
+1: commands
+2: to move, use arrows
+3: to type in insert mode, is I
+4: to get back to command mode, is ESC
+5: to save -> :w
+6: to force-quit -> :q!
+7: to write after the cursor -> a
+8: new line -> o
+9: to delete a line -> dd
+10: to delete a character -> del
+11: to move to a line -> line number + G
+12: replace mode -> R
+13: to search -> /yourWord/
+14: save and quit -> ZZ
