@@ -1,0 +1,3 @@
+grep aPattern fileName
+grep -we "[[:type:]]\{6,\}" fileName -- find all words with size greater than six and parse them out
+

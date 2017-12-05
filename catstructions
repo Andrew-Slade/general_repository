@@ -1,0 +1,5 @@
+cat << EOF > filename
+Some text here
+EOF 
+
+#This enters in text until EOF is input

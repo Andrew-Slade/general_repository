@@ -1,0 +1,10 @@
+git branch - create branch or view branch
+git add -- add files to log
+git checkout -- checkout a branch
+git log --online -- view git log
+git commit -- commit changes to a branch
+git push -- push commit to online repo
+git pull -- pull a repo and commits it to current branch
+git clone -- clone a repo
+git checkout <idnumber of commit> -- view files at a specific commit's time
+git revert <idnumber of commit> -- revert changes to a git
